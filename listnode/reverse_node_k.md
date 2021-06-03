@@ -72,3 +72,5 @@ class Solution:
 每一次翻转会设计到四个变量   
 
 所以 引申出来了 记录这四个变量的 current_tmp,current_pre
+
+题意做了一个什么动作过程，需要哪些变量
